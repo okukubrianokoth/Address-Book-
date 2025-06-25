@@ -47,6 +47,22 @@
       "email": "johnodhiambo139@gmail.com",
       "address": "Embakasi, Tasia",
       "phone": "0742529159"
+    },
+    {
+      "id": "9ad8",
+      "name": "Maurine",
+      "username": "obadomaurine",
+      "email": "obadomaurine@gmail.com",
+      "address": "Kisii",
+      "phone": "0714244637"
+    },
+    {
+      "id": "23e1",
+      "name": "Brian Okuku",
+      "username": "okukubrian",
+      "email": "brian.okuku@student.moringaschool.com",
+      "address": "Tasia",
+      "phone": "0793459226"
     }
   ]
 }
