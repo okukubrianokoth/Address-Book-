@@ -1,0 +1,52 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Okuku Brian Okoth",
+      "username": "okukubrian",
+      "email": "okukubrian743@gmail.com",
+      "address": "Nyayo Estate Nairobi",
+      "phone": "0793459226"
+    },
+    {
+      "id": "2",
+      "name": "Geofrey",
+      "username": "okukugeof",
+      "email": "okukugeorey@gmail.com",
+      "address": "Migory",
+      "phone": "0768719335"
+    },
+    {
+      "id": "3",
+      "name": "Isaiah Okuku",
+      "username": "okukuisaiah",
+      "email": "okukuisaiah@gmail.com",
+      "address": "Lavingtone",
+      "phone": "0710561870"
+    },
+    {
+      "id": "4",
+      "name": "Caren Okuku",
+      "username": "okukucaren",
+      "email": "carenokuku@gmail.com",
+      "address": "Homabay",
+      "phone": "0871766390"
+    },
+    {
+      "id": "5",
+      "name": "Quinter Odhiambo",
+      "username": "odhiamboquinter",
+      "email": "quinter@odhiambogmail.com",
+      "address": "Kendu Bay",
+      "phone": "0795473141"
+    },
+    {
+      "id": "6",
+      "name": "John Okuku",
+      "username": "okukujohn",
+      "email": "johnodhiambo139@gmail.com",
+      "address": "Embakasi, Tasia",
+      "phone": "0742529159"
+    }
+  ]
+}

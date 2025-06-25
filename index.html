@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact List</title>
+    <link rel="stylesheet" href="./index.css" />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Contact List</h1>
+
+        <form id="contact-form">
+            <input type="hidden" id="contact-id" />
+            <input type="text" id="name" placeholder="Full Name" required />
+            <input type="text" id="username" placeholder="Username" required />
+            <input type="email" id="email" placeholder="Email" required />
+            <input type="text" id="address" placeholder="Address" required />
+            <input type="tel" id="phone" placeholder="Phone Number" required />
+            <button type="submit">Save Contact</button>
+        </form>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+            <input type="text" id="search" placeholder="Search by name, username, or email..."
+                style="flex: 1; padding: 8px;" />
+            <select id="sort" style="margin-left: 10px; padding: 8px;">
+                <option value="asc">Sort A-Z</option>
+                <option value="desc">Sort Z-A</option>
+            </select>
+        </div>
+
+        <div id="contacts-list"></div>
+    </div>
+
+    <script src="./src/index.js"></script>
+</body>
+
+</html>
