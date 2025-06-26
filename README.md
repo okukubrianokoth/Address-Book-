@@ -47,6 +47,6 @@ You are free to use, modify, and distribute it for personal or commercial purpos
 ### Installation
 
 ```bash
-git clone https://github.com/okukubrianokoth/Address-Book-.git
+git clone https://github.com/okukubrianokoth/Address-Book-.git.
 cd Address-Book-
 npm install -g json-server   # if not installed
