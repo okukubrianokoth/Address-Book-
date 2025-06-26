@@ -1,6 +1,6 @@
 # 📒 Address Book
 
-A simple web-based contact management application that allows users to store, view, update, and delete contact information such as name, username, email, address, and phone number.
+A simple web-based contact management application, that allows users to store, view, update, and delete contact information such as name, username, email, address, and phone number.
 
 [🔗 Live Demo](https://okukubrianokoth.github.io/Address-Book-)  
 [🔗 GitHub Repository](https://github.com/okukubrianokoth/Address-Book-)
