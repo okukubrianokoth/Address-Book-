@@ -14,7 +14,7 @@ A simple web-based contact management application that allows users to store, vi
 - Edit and update contact details.
 - Delete contacts with confirmation.
 - Search contacts by name, username, or email.
-- Sort contacts alphabetically (A–Z / Z–A)
+- Sort contacts alphabetically (A–Z / Z–A).
 
 ---
 
