@@ -12,7 +12,7 @@ A simple web-based contact management application that allows users to store, vi
 - Add new contacts.
 - View all saved contacts.
 - Edit and update contact details.
-- Delete contacts with confirmation
+- Delete contacts with confirmation.
 - Search contacts by name, username, or email.
 - Sort contacts alphabetically (A–Z / Z–A)
 
