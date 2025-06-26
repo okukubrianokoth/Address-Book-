@@ -49,4 +49,4 @@ You are free to use, modify, and distribute it for personal or commercial purpos
 ```bash
 git clone https://github.com/okukubrianokoth/Address-Book-.git.
 cd Address-Book-
-npm install -g json-server   # if not installed
+npm install -g json-server   # if not installed.
