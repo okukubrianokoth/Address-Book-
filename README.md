@@ -23,7 +23,7 @@ A simple web-based contact management application, that allows users to store, v
 - **HTML** – Markup structure.
 - **CSS** – Styling and layout
 - **JavaScript** – Application logic and DOM handling
-- **JSON Server** – Mock REST API for data storage (development)
+- **JSON Server** – Mock REST API for data storage (development).
 
 ---
 
