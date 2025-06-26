@@ -36,7 +36,7 @@
       "id": "5",
       "name": "Quinter Odhiambo",
       "username": "odhiamboquinter",
-      "email": "quinter@odhiambogmail.com",
+      "email": "quinter@odhiambo.gmail.com",
       "address": "Kendu Bay",
       "phone": "0795473141"
     },
@@ -63,6 +63,14 @@
       "email": "brian.okuku@student.moringaschool.com",
       "address": "Tasia",
       "phone": "0793459226"
+    },
+    {
+      "id": "e776",
+      "name": "Audi",
+      "username": "okukubrian",
+      "email": "brian.okuku@student.moringaschool.com",
+      "address": "Migory",
+      "phone": "0768719335"
     }
   ]
 }
