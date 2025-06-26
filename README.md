@@ -10,7 +10,7 @@ A simple web-based contact management application that allows users to store, vi
 ## 🚀 Features
 
 - Add new contacts.
-- View all saved contacts
+- View all saved contacts.
 - Edit and update contact details
 - Delete contacts with confirmation
 - Search contacts by name, username, or email.
