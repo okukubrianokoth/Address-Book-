@@ -41,7 +41,7 @@ You are free to use, modify, and distribute it for personal or commercial purpos
 
 ### Prerequisites
 
-- Node.js and npm installed
+- Node.js and npm installed and
 - `json-server` installed globally (or locally via npm)
 
 ### Installation
